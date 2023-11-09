@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.each-list-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+}
+
+.list-item {
+  font-weight: bold;
+}
+
+.dlt-btn {
+  color: #ff0b37;
+  background-color: transparent;
+  border: 1px solid #ff0b37;
+  padding: 6px;
+  border-radius: 8px;
+  height: 30px;
+  width: 70px;
+  margin-left: 12px;
+}
